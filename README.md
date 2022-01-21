@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [ApiPreAceleracionAlkemy](https://github.com/santiMoreno1989/PreAceleracion-SantiagoMoreno/tree/main/ApiPreAceleracionAlkemy)
 
-- 👯 I’m looking to collaborate on [OngProject](https://github.com/alkemyTech/OT114-Server/tree/main/OngProject)
+- 👯 I am collaborating in [OngProject](https://github.com/alkemyTech/OT114-Server/tree/main/OngProject)
 
 - 💬 Ask me about **.NET, SQL Server , Api Restful**
 
